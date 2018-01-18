@@ -1,2 +1,2 @@
 # Data-Structure-and-Algorithm-
-Here are parts of my homework solutions of Data Structure and Algorithm specialization from Coursera. I take this course in order to enhance my computer science knowledge and practice my programming skills. 
+Here are parts of my homework solutions of Data Structure and Algorithm specialization from Coursera. I take this course in order to enhance my computer science knowledge and practice my programming skills. And I'm trying to solve more data structure and algorithm programming problems.
